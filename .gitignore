@@ -1,0 +1,7 @@
+google_creds.json
+crash.log
+
+**/__pycache__
+*.pyc
+*.swp
+**/.DS_Store

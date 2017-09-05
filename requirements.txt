@@ -1,0 +1,4 @@
+boto==2.47.0
+celery==4.1.0
+google-cloud-vision
+pycurl==7.43.0
